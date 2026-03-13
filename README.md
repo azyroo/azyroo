@@ -1,4 +1,4 @@
-# Hi, I’m Ayzro – AI Dev based in Zürich, Switzerland
+# Hi, I’m Ayzro, an AI Dev based in Zürich, Switzerland
 
 I code across frontend, backend, and AI-assisted workflows.  
 Mostly using TypeScript and JavaScript, but AI is my co-pilot.  
