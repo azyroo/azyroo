@@ -30,3 +30,7 @@ Some call it “cheating,” I call it **working smarter and faster** – AI wil
 
 ### Contact
 Discord: **btw.ayzro#0000**  
+
+---
+
+-# Some might say AI devs aren’t real devs – and that’s fair – but we’re still people who enjoy building, experimenting, and creating cool things.
