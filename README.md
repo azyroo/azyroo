@@ -1,8 +1,9 @@
-**Hey, I’m Ayzro.** 
+# Hi, I’m Ayzro – AI Dev based in Zürich, Switzerland
+
 I code across frontend, backend, and AI-assisted workflows.  
 Mostly using TypeScript and JavaScript, but AI is my co-pilot.  
 I experiment, break things, learn fast, and explore how everything connects.  
-Some call it “cheating,” I call it **working smarter and faster** AI will soon be part of every developer’s workflow.
+Some call it “cheating,” I call it **working smarter and faster** – AI will soon be part of every developer’s workflow.
 
 ---
 
@@ -19,9 +20,10 @@ Some call it “cheating,” I call it **working smarter and faster** AI will so
 
 ### About Me
 - Learning fast, building smarter, experimenting everywhere  
+- Mainly developing **Discord bots** and creating complex systems  
+- I use AI to **prototype faster, explore ideas, and unleash my imagination**  
 - Fullstack: frontend ↔ backend ↔ AI tools  
 - I don’t know everything… yet I understand systems and connections  
-- AI helps me **prototype faster, explore ideas, and focus on logic** – that’s why I code with AI  
 - AI is not a shortcut, it’s the future of development  
 
 ---
