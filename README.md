@@ -3,7 +3,7 @@
 I code across frontend, backend, and AI-assisted workflows.  
 Mostly using TypeScript and JavaScript, but AI is my co-pilot.  
 I experiment, break things, learn fast, and explore how everything connects.  
-Some call it “cheating,” I call it **working smarter and faster** – AI will soon be part of every developer’s workflow.
+Some call it “cheating,” I call it **working smarter and faster** AI will soon be part of every developer’s workflow.
 
 ---
 
@@ -33,4 +33,4 @@ Discord: **btw.ayzro#0000**
 
 ---
 
--# Some might say AI devs aren’t real devs – and that’s fair – but we’re still people who enjoy building, experimenting, and creating cool things.
+*Some might say AI devs aren’t real devs and that’s fair but we’re still people who enjoy building, experimenting, and creating cool things.*
