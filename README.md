@@ -22,7 +22,7 @@ Some call it “cheating,” I call it **working smarter and faster** AI will so
 - Learning fast, building smarter, experimenting everywhere  
 - Mainly developing **Discord bots** and creating complex systems  
 - I use AI to **prototype faster, explore ideas, and unleash my imagination**  
-- Fullstack: frontend ↔ backend ↔ AI tools  
+- Fullstack: frontend ↔ backend
 - I don’t know everything… yet I understand systems and connections  
 - AI is not a shortcut, it’s the future of development  
 
